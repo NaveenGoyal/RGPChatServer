@@ -1,0 +1,2 @@
+include ':app', ':rxmeteor', ':timber', ':rxrc', ':meteor', ':rc', ':recording'
+include ':RocketChat'
